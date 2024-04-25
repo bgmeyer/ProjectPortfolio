@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Sports" Class="SportsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Sports.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="CTRL_ALT_ELITE_GroupProject.Properties.Settings" SettingsPropertyName="SportsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.nflMATCH" Member="nflMATCHes">
+    <Type Name="nflMATCH">
+      <Column Name="MATCH_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HOME_TEAM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="AWAY_TEAM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MATCH_DATE" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TIME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TV_STATION" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_INFO" Member="nflPLAYER_INFOs">
+    <Type Name="nflPLAYER_INFO">
+      <Column Name="PLAYER_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NUMBER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FULL_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="POSITION" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="WEIGHT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="HEIGHT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="team" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflTEAM_INFO" Member="nflTEAM_INFOs">
+    <Type Name="nflTEAM_INFO">
+      <Column Name="TEAM_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TEAM_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="CITY" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="STATE" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="COACH" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OWNER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflTEAM_STAT" Member="nflTEAM_STATs">
+    <Type Name="nflTEAM_STAT">
+      <Column Name="STAT_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TEAM_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="STAT_YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="WINS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LOSSES" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PCT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PF" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PA" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RANKING" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_FUMBLES_STAT" Member="nflPLAYER_FUMBLES_STATs">
+    <Type Name="nflPLAYER_FUMBLES_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Player" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FF" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FR_TD" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_INTERCEPTIONS_STAT" Member="nflPLAYER_INTERCEPTIONS_STATs">
+    <Type Name="nflPLAYER_INTERCEPTIONS_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PLAYER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="INT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="INT_TD" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="INT_YDS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LNG" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_PASSING_STAT" Member="nflPLAYER_PASSING_STATs">
+    <Type Name="nflPLAYER_PASSING_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Player" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PASS_YDS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[Yds/Att]" Member="Yds_Att" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Att" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Cmp" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[CMP%]" Member="CMP_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TD" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="INT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Rate" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[1st]" Member="_1st" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[1st%]" Member="_1st_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[20+]" Member="_20_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[40+]" Member="_40_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Lng" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Sck" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SckY" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_RECEIVING_STAT" Member="nflPLAYER_RECEIVING_STATs">
+    <Type Name="nflPLAYER_RECEIVING_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Player" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="REC" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YDS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TD" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[20+]" Member="_20_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[40+]" Member="_40_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LNG" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="REC_1ST" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[1ST%]" Member="_1ST_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[REC_ FUM]" Member="REC__FUM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[REC_YAC/R]" Member="REC_YAC_R" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TGTS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_RUSHING_STAT" Member="nflPLAYER_RUSHING_STATs">
+    <Type Name="nflPLAYER_RUSHING_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Player" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RUSH_YDS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Att" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TD" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[20+]" Member="_20_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[40+]" Member="_40_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Lng" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RUSH_1ST" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[RUSH_1ST%]" Member="RUSH_1ST_" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RUSH_FUM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nflPLAYER_TACKLES_STAT" Member="nflPLAYER_TACKLES_STATs">
+    <Type Name="nflPLAYER_TACKLES_STAT">
+      <Column Name="STAT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PLAYER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="COMB" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ASST" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SOLO" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SCK" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nbaMATCH" Member="nbaMATCHes">
+    <Type Name="nbaMATCH">
+      <Column Name="MATCH_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HOME_TEAM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="AWAY_TEAM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MATCH_DATE" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ARENA" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nbaPLAYER_INFO" Member="nbaPLAYER_INFOs">
+    <Type Name="nbaPLAYER_INFO">
+      <Column Name="PLAYER_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FIRST_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LAST_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="HEIGHT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="WEIGHT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TEAM" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="POSITION" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NUMBER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nbaPLAYER_STAT" Member="nbaPLAYER_STATs">
+    <Type Name="nbaPLAYER_STAT">
+      <Column Name="STAT_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PLAYER_ID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="STAT_YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="POINTS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="REBOUNDS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ASSISTS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MINUTES_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nbaTEAM_INFO" Member="nbaTEAM_INFOs">
+    <Type Name="nbaTEAM_INFO">
+      <Column Name="TEAM_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TEAM_NAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="CITY" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="STATE" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="COACH" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OWNER" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nbaTEAM_STAT" Member="nbaTEAM_STATs">
+    <Type Name="nbaTEAM_STAT">
+      <Column Name="STAT_ID" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TEAM_ID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="STAT_YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="WINS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LOSSES" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="POINTS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="REBOUNDS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ASSISTS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OPPONENT_POINTS_PER_GAME" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RANKING" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

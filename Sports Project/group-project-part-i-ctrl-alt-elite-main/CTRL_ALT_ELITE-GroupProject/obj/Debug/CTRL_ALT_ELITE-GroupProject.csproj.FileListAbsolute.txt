@@ -1,0 +1,152 @@
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\ddrodriguez21\Desktop\Group Project\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.pdb
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CopyComplete
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\Users_log.ldf
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\Users.mdf
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.pdb
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CopyComplete
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.CreateUserForm.resources
+C:\Users\Danielle\Downloads\group-project-part-i-ctrl-alt-elite-Login-Feature\group-project-part-i-ctrl-alt-elite-Login-Feature\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SelectFavoritesForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.CreateUserForm.resources
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SelectFavoritesForm.resources
+C:\Users\ThayGuyEjay\Downloads\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\ThayGuyEjay\Downloads\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\ThayGuyEjay\Downloads\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB.mdf
+C:\Users\ThayGuyEjay\Desktop\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB_log.ldf
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB.mdf
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB_log.ldf
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.pdb
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.CreateUserForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SelectFavoritesForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CopyComplete
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\OneDrive\Documents\GitHub\group-project-part-i-ctrl-alt-elite\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB.mdf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB_log.ldf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.CreateUserForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SelectFavoritesForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CopyComplete
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll.config
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\Sports.mdf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\Sports_log.ldf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlFavNFLPlayers.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.nbaPlayersForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.nbaTeamForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB.mdf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UsersDB_log.ldf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\Sports.mdf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\Sports_log.ldf
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe.config
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\CTRL_ALT_ELITE-GroupProject.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.pdb
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\bin\Debug\UserAccountManager.dll.config
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.AssemblyReference.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.CreateUserForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.DashboardForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.LoginForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MainForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.MatchesForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.nbaPlayersForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.nbaTeamForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.PlayersForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.Properties.Resources.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SelectFavoritesForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.SettingsForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.TeamsForm.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlFavNFLPlayers.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE_GroupProject.userControlUpcomingGame.resources
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.GenerateResource.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.csproj.CopyComplete
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.exe
+C:\Users\jcc80\Downloads\group-project-part-i-ctrl-alt-elite-main-final\group-project-part-i-ctrl-alt-elite-main\CTRL_ALT_ELITE-GroupProject\obj\Debug\CTRL_ALT_ELITE-GroupProject.pdb

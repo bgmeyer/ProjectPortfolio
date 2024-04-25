@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTRL_ALT_ELITE-GroupProject", "CTRL_ALT_ELITE-GroupProject.csproj", "{3DED62CA-300A-4EAE-AD91-9027BB823A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAccountManager", "..\UserAccountManager\UserAccountManager.csproj", "{30F8D8E1-1F88-49EB-B980-B4B02E6118B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DED62CA-300A-4EAE-AD91-9027BB823A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED62CA-300A-4EAE-AD91-9027BB823A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED62CA-300A-4EAE-AD91-9027BB823A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED62CA-300A-4EAE-AD91-9027BB823A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F8D8E1-1F88-49EB-B980-B4B02E6118B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F8D8E1-1F88-49EB-B980-B4B02E6118B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F8D8E1-1F88-49EB-B980-B4B02E6118B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F8D8E1-1F88-49EB-B980-B4B02E6118B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489E70AA-1137-4000-B55C-A9598085E5F8}
+	EndGlobalSection
+EndGlobal

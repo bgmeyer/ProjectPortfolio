@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.25, 8.75" name="Sports">
+  <DataContextMoniker Name="/SportsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6e1bf2ff-74ae-4415-94e7-d4fac304df48" absoluteBounds="0.5, 0.625, 1.5, 1.9631982421875">
+      <DataClassMoniker Name="/SportsDataContext/nflMATCH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6eec17b9-5e31-45f2-9513-0d77b800c544" absoluteBounds="0.51500000000000012, 1.085, 1.4700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0e8a2563-fa59-49e1-9793-e9ed50a242bd" absoluteBounds="2.125, 0.625, 1.5, 2.3478011067708335">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_INFO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ee8d0407-20bc-487c-bc19-02dc5877f099" absoluteBounds="2.14, 1.085, 1.4700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5850f226-d2e4-4106-b49e-cf537255cf05" absoluteBounds="3.75, 0.625, 1.375, 1.9631982421875">
+      <DataClassMoniker Name="/SportsDataContext/nflTEAM_INFO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4fe65d8-44cc-4e75-98df-e0c5ba4b01be" absoluteBounds="3.765, 1.085, 1.3450000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9cf690b3-4055-4975-8995-3d7736a81c7f" absoluteBounds="5.25, 0.625, 1.375, 2.5401025390625">
+      <DataClassMoniker Name="/SportsDataContext/nflTEAM_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc6e1b69-141a-4930-95cc-9c309dbfd881" absoluteBounds="5.265, 1.085, 1.3450000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="02d085ce-1406-4231-9f2f-4e4373106340" absoluteBounds="3.5, 3.25, 1.25, 1.9631982421875">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_FUMBLES_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="922b7d84-bbda-4b2a-8620-ac44e1c239b1" absoluteBounds="3.515, 3.71, 1.2200000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4c8ca77a-3c8d-4662-a7b7-779b82d9106e" absoluteBounds="4.875, 3.25, 1.25, 2.1554996744791666">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_INTERCEPTIONS_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf284318-071f-445f-9427-3a290fd2adf7" absoluteBounds="4.8900000000000006, 3.71, 1.2200000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ec90843-44d1-41f9-bf81-bf4313199512" absoluteBounds="0.5, 2.875, 1.375, 4.2708154296875">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_PASSING_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="09d0ea2d-504e-4baa-807e-eb560dc80e39" absoluteBounds="0.515, 3.335, 1.3450000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef35ae89-f107-4022-951d-a65bbb2de677" absoluteBounds="2, 3.125, 1.375, 3.5016097005208326">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_RECEIVING_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bef9932f-6861-48ee-9912-38404e5dc7a0" absoluteBounds="2.0149999999999997, 3.585, 1.3450000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="acb751d0-4249-4687-98f9-f442bf85ced4" absoluteBounds="3.5, 5.375, 1.375, 3.1170068359375">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_RUSHING_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="550a4349-e4ed-4ad8-851c-d1659d4aa83c" absoluteBounds="3.515, 5.835, 1.3450000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d86a3b47-846c-4c61-94e1-21800b95539f" absoluteBounds="5, 5.625, 1.25, 2.1554996744791666">
+      <DataClassMoniker Name="/SportsDataContext/nflPLAYER_TACKLES_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8425c32-b5f1-417f-bb8e-c88fd959683c" absoluteBounds="5.015, 6.085, 1.2200000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d32d1af6-366d-494f-bd40-871b5049bdb2" absoluteBounds="7.125, 0.75, 1.5, 1.7708968098958331">
+      <DataClassMoniker Name="/SportsDataContext/nbaMATCH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4a371b3-f414-4c05-af7d-3dce99071ff0" absoluteBounds="7.14, 1.21, 1.4700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aaedb5e8-98bd-414f-b891-a482c8aba56d" absoluteBounds="8.75, 0.75, 1.375, 2.5401025390625">
+      <DataClassMoniker Name="/SportsDataContext/nbaPLAYER_INFO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb811c9f-3094-4331-bf8f-34e9d4e8efbf" absoluteBounds="8.765, 1.21, 1.3450000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fe4f153-4f31-4907-ae4e-b902ccbf95ca" absoluteBounds="10.375, 0.75, 1.5, 2.1554996744791666">
+      <DataClassMoniker Name="/SportsDataContext/nbaPLAYER_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63605662-cf26-47d8-95c5-e904a777dedc" absoluteBounds="10.39, 1.21, 1.4700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2d634762-f05e-452a-a07b-c752c1df02c5" absoluteBounds="8.625, 3.625, 1.5, 1.9631982421875">
+      <DataClassMoniker Name="/SportsDataContext/nbaTEAM_INFO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c2b203a-ae74-44c0-a8fe-2e6160a2fdb1" absoluteBounds="8.64, 4.085, 1.4700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20bc0e35-07ee-4955-afb4-c42b6e28b3c1" absoluteBounds="10.375, 3.25, 1.625, 2.7324039713541666">
+      <DataClassMoniker Name="/SportsDataContext/nbaTEAM_STAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c05ee745-5c6b-46f0-bfa9-1ed1cee09636" absoluteBounds="10.39, 3.71, 1.5950000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
