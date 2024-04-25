@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LibraryData" Class="LibraryDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\LibraryData.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="BroecklynneMeyer_CPT_206_Library.Properties.Settings" SettingsPropertyName="LibraryDataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Book" Member="Books">
+    <Type Name="Book">
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Author" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Publisher" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CD" Member="CDs">
+    <Type Name="CD">
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Album" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Artist" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Release_Date" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Genres" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Descriptors" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Check-In]" Member="Check_Ins">
+    <Type Name="Check_In">
+      <Column Name="MemberID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateReturned" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Check-Out]" Member="Check_Outs">
+    <Type Name="Check_Out">
+      <Column Name="MemberID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateBorrowed" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateDue" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DVD" Member="DVDs">
+    <Type Name="DVD">
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="title" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="genres" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="language" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="release_date" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="runtime" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Equipment" Member="Equipments">
+    <Type Name="Equipment">
+      <Column Name="ISBN" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MAKE" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MODEL" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="YEAR" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OS" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MEMORY" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Member" Member="Members">
+    <Type Name="Member">
+      <Column Name="MemberID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ZipCode" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
